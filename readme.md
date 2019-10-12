@@ -29,16 +29,16 @@ Dan buat file readme.md
 Contoh dengan nama repository "latihan1"
 ![zz](https://user-images.githubusercontent.com/56189241/66697949-2c46cb80-ed04-11e9-9fb4-176ef6031782.JPG)
 
-
 5. Jika file sudah dibuat lakukan remote dan push agar sinkron dengan github.com
 
 ![5](https://user-images.githubusercontent.com/56189241/66697900-cf4b1580-ed03-11e9-992e-d83597f53ac5.JPG)
 
-6. Jika di temukan rejected setelah push,
+6. Jika di temukan rejected setelah push
 
 ![Error Reject](https://user-images.githubusercontent.com/56189241/66697909-db36d780-ed03-11e9-9378-47111763f02c.jpg)
 
-Lakukan push kembali.
+Lakukan push kembali
+
 ![Error Reject 1](https://user-images.githubusercontent.com/56189241/66697918-eab62080-ed03-11e9-8400-1b298654166c.jpg)
 
 7. Jika berhasil maka isi dalam file readme.md di repository kita akan seperti ini.
