@@ -1,0 +1,10 @@
+a=input("Masukan Nilai A:")
+b=input("Masukan Nilai B:")
+print("Variabel A=",a)
+print("Variabel B=",b)
+print("Hasil penggabungan {}&{}=%s".format(a,b)%(a+b))
+
+a=int(a)
+b=int(b)
+print("Hasil penjumlahan {}+{}=%d".format(a,b) %(a+b))
+print("Hasil pembagian {}/{}=%d".format(a,b) %(a/b))
